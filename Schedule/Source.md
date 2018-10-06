@@ -1,7 +1,7 @@
-![](../Assets/UTC Reading/Logo.jpg)
+![UTC Reading Logo](../Assets/UTC Reading/Logo.jpg)
 
 
-![Email_Trailhead-Header_Opt-1_650x177px](../Assets/Salesforce/Email_Banners/Email_Trailhead-Header_Opt-1_650x177px.png)
+![Trailhead Header](../Assets/Salesforce/Email_Banners/Email_Trailhead-Header_Opt-1_650x177px.png)
 
 ##  Salesforce Student Group Introduction
 
